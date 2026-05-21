@@ -66,19 +66,19 @@ Chat Message
 ## Screenshots
 
 ### Workflow Overview
-![Workflow Overview](screenshots/3a Inventory.png)
+![Workflow Overview](./screenshots/3a_Inventory.png)
 
 ### Stock Query — "How many eggs are there?"
-![Stock Query](screenshots/3a Inventoryff.png)
+![Stock Query](./screenshots/3a_Inventoryff.png)
 
 ### Low-Stock Analysis — "What do we need to get?"
-![Low Stock Analysis](screenshots/3a Inventorypp.png)
+![Low Stock Analysis](./screenshots/3a_Inventorypp.png)
 
 ### Stock Update — "I was just gifted 4 pieces of Apples"
-![Stock Update](screenshots/3a Inventorytt.png)
+![Stock Update](./screenshots/3a_Inventorytt.png)
 
 ### Live Update Execution
-![Live Update](screenshots/3a InventoryXX.png)
+![Live Update](./screenshots/3a_InventoryXX.png)
 
 ---
 
